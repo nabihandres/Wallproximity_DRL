@@ -78,8 +78,7 @@ $$
   </tr>
 </table>
 
-</body>
-</html>
+
 
 ### Static Obstacles
 <table>
@@ -424,3 +423,5 @@ To simulate circular obstacles, each circle is approximated by a series of conne
           self.sim.addObstacle([(x1, y1), (x2, y2)])
   self.sim.processObstacles()
 
+</body>
+</html>
