@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .center-vertical {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%; /* Asegura que la celda tenga altura */
-  }
-</style>
-</head>
-<body>
-	
 # RAL 
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
@@ -74,7 +60,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td>:--R3(ours)--:</td>
+    <td>R3(ours) { text-align: center; }</td>
     <td></td>
   </tr>
 </table>
