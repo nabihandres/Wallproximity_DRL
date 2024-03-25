@@ -70,14 +70,34 @@ $$
 ### Static Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/static.gif" alt="Alt Text 3" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/static UR.gif" alt="Alt Text 4" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/static ICCAS.gif" alt="Alt Text 5" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R3(ours)</td>
+    <td>R1(CADRL)</td>
+    <td>R2(CADRL)</td>
+    <td>R1(LSTM)</td>
+  </tr>
+  <tr>
+     <td><img src="" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R2(LSTM)</td>
     <td>R1(SARL)</td>
     <td>R2(SARL)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td></td>
+    <td>R3(OURS)</td>
+    <td></td>
   </tr>
 </table>
 
