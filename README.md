@@ -5,7 +5,7 @@
 This README outlines the test environments: blockpath and curvepath. These modifications are centered around the Reward function and the introduction of new subfunctions to better handle robot navigation with respect to wall proximity.
 
 ## Reward Function of different outputs
-- **output_UR**:
+- **R1**:
 
 $$
 R(J_t, a_t) = 
@@ -18,13 +18,13 @@ R(J_t, a_t) =
 \end{cases}
 $$
 
-- **output_ICCAS**:
+- **R2**:
 
 $$
 R(J, a) = R_g + R_c + R_{for} + R_d + 2R_s
 $$
 
-- **output_alisher**:
+- **R3(Ours)**:
 
 $$
 R(J, a) = R_g + R_c + R_{for} + R_{km} + R_d + R_s + R_{wall}
