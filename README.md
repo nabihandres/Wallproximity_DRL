@@ -41,9 +41,9 @@ $$
     <td><img src="" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td class="center-text">R3(ours)</td>
-    <td class="center-text">R1(SARL)</td>
-    <td class="center-text">R2(SARL)</td>
+    <td>R1(CADRL)</td>
+    <td>R2(CADRL)</td>
+    <td>R1(LSTM)</td>
   </tr>
   <tr>
      <td><img src="" alt="Alt Text 1" width="300"/></td>
@@ -51,9 +51,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td class="center-text">R3(ours)</td>
-    <td class="center-text">R1(SARL)</td>
-    <td class="center-text">R2(SARL)</td>
+    <td>R2(LSTM)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
   <tr>
     <td></td>
@@ -62,7 +62,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td colspan="1" class="center-text">R3(ours)</td>
+    <td>R3(OURS)</td>
     <td></td>
   </tr>
 </table>
