@@ -1,3 +1,14 @@
+<html>
+<head>
+<style>
+  .center-content {
+    display: flex;
+    align-items: center;
+  }
+</style>
+</head>
+<body>
+	
 # RAL 
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
