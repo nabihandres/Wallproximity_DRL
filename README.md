@@ -46,7 +46,6 @@ $$
 </table>
 
 ### Static Obstacles
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 1
 <table>
   <tr>
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/static.gif" alt="Alt Text 3" width="300"/></td>
@@ -54,9 +53,9 @@ python test.py --policy sarl --model_dir data/output --phase test --visualize --
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/static ICCAS.gif" alt="Alt Text 5" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_curvepath_5_6</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
+    <td>R3(ours)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
 </table>
 
@@ -69,9 +68,9 @@ python test.py --policy sarl --model_dir data/output --phase test --visualize --
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/dynamic ICCAS.gif" alt="Alt Text 5" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_curvepath_5_6</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
+    <td>R3(ours)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
 </table>
 
@@ -84,9 +83,9 @@ python test.py --policy sarl --model_dir data/output --phase test --visualize --
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/mixed ICCAS.gif" alt="Alt Text 5" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_curvepath_5_6</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
+    <td>R3(ours)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
 </table>
 
