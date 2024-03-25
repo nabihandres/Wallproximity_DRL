@@ -34,7 +34,7 @@ $$
 ### No Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/no.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/no UR.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/no ICCAS.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
