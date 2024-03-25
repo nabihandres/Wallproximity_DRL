@@ -32,23 +32,34 @@ $$
 
 ## Curvepath Environment
 ### No Obstacles
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .center-text {
+    text-align: center;
+  }
+</style>
+</head>
+<body>
+
 <table>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
-  <tr>
-     <td colspan="1" style="text-align:center;">R3(ours)</td>
-    <td colspan="1" style="text-align:center;">R1(SARL)</td>
-    <td colspan="1" style="text-align:center;">R2(SARL)</td>
+  <tr class="center-text">
+    <td>R3(ours)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
-  <tr>
+  <tr class="center-text">
     <td>R3(ours)</td>
     <td>R1(SARL)</td>
     <td>R2(SARL)</td>
@@ -58,12 +69,15 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
-  <tr> 
+  <tr class="center-text"> 
     <td></td>
     <td>R3(ours)</td>
     <td></td>
   </tr>
 </table>
+
+</body>
+</html>
 
 ### Static Obstacles
 <table>
