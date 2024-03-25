@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  td {
+    text-align: center;
+    vertical-align: middle;
+  }
+</style>
+</head>
+<body>
 # RAL 
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
@@ -32,17 +43,7 @@ $$
 
 ## Curvepath Environment
 ### No Obstacles
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  td {
-    text-align: center;
-    vertical-align: middle;
-  }
-</style>
-</head>
-<body>
+
 
 <table>
   <tr>
