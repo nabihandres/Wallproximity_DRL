@@ -39,9 +39,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R3(ours)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+     <td colspan="1" style="text-align:center;">R3(ours)</td>
+    <td colspan="1" style="text-align:center;">R1(SARL)</td>
+    <td colspan="1" style="text-align:center;">R2(SARL)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
