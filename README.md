@@ -74,7 +74,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td>:R3(ours):</td>
+    <td>:--R3(ours)--:</td>
     <td></td>
   </tr>
 </table>
