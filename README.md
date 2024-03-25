@@ -41,7 +41,7 @@ $$
     <td><img src="" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R1(CADRL)</td>
+    <td>R1(CADRL) Reach the goal 14.75 s</td>
     <td>R2(CADRL)</td>
     <td>R1(LSTM)</td>
   </tr>
