@@ -62,7 +62,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td class="center-text">R3(ours)</td>
+    <td colspan="1" class="center-text">R3(ours)</td>
     <td></td>
   </tr>
 </table>
