@@ -34,20 +34,6 @@ $$
 ## Curvepath Environment
 ### No Obstacles
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  .center-text {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-  }
-</style>
-</head>
-<body>
-
 <table>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
@@ -80,10 +66,6 @@ $$
     <td></td>
   </tr>
 </table>
-
-</body>
-</html>
-
 
 ### Static Obstacles
 <table>
