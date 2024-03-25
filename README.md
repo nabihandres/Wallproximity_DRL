@@ -4,6 +4,32 @@
 ### Overview
 This README outlines the test environments: blockpath and curvepath. These modifications are centered around the Reward function and the introduction of new subfunctions to better handle robot navigation with respect to wall proximity.
 
+## Reward Function of different outputs
+- **output_UR**:
+
+$$
+R(J_t, a_t) = 
+\begin{cases} 
+10 & \text{if Reach the goal} \\
+-10 & \text{if Time out} \\
+-2 & \text{if Collision} \\
+0.5(d_{i} - d_{\text{und}}) & \text{if Uncomfortable} \\
+0.01(d_{g}(t - 1) - d_{g}(t)) & \text{otherwise}
+\end{cases}
+$$
+
+- **output_ICCAS**:
+
+$$
+R(J, a) = R_g + R_c + R_{for} + R_d + 2R_s
+$$
+
+- **output_alisher**:
+
+$$
+R(J, a) = R_g + R_c + R_{for} + R_{km} + R_d + R_s + R_{wall}
+$$
+
 ## Curvepath Environment
 ### No Obstacles
 <table>
@@ -154,31 +180,6 @@ python test.py --policy sarl --model_dir data/output --phase test --visualize --
   </tr>
 </table>
 
-## Reward Function of different outputs
-- **output_UR**:
-
-$$
-R(J_t, a_t) = 
-\begin{cases} 
-10 & \text{if Reach the goal} \\
--10 & \text{if Time out} \\
--2 & \text{if Collision} \\
-0.5(d_{i} - d_{\text{und}}) & \text{if Uncomfortable} \\
-0.01(d_{g}(t - 1) - d_{g}(t)) & \text{otherwise}
-\end{cases}
-$$
-
-- **output_ICCAS**:
-
-$$
-R(J, a) = R_g + R_c + R_{for} + R_d + 2R_s
-$$
-
-- **output_alisher**:
-
-$$
-R(J, a) = R_g + R_c + R_{for} + R_{km} + R_d + R_s + R_{wall}
-$$
 
 ## Reward Function Changes
 - **Forward Subfunction Modification**: The forward subfunction of the Reward function has been updated to more effectively evaluate the robot's performance based on the distance traveled and the proximity to the goal. The revised function is as follows:
