@@ -1,9 +1,8 @@
-# RAL
-# CrowdNav 
+# RAL 
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
 ### Overview
-This README outlines the changes made to the CrowdNav folder for three environments: blockpath, curvepath, and crosspath. These modifications are centered around the Reward function and the introduction of new subfunctions to better handle robot navigation with respect to wall proximity.
+This README outlines the test environments: blockpath and curvepath. These modifications are centered around the Reward function and the introduction of new subfunctions to better handle robot navigation with respect to wall proximity.
 
 ## Curvepath Environment
 ### No Obstacles
