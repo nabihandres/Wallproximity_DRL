@@ -63,9 +63,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R3(ours)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td class="center-vertical">R3(ours)</td>
+    <td class="center-vertical">R1(SARL)</td>
+    <td class="center-vertical">R2(SARL)</td>
   </tr>
   <tr>
     <td></td>
