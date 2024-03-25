@@ -54,6 +54,7 @@ $$
     <td>R2(SARL)</td>
   </tr>
   <tr>
+	  :---:
     <td></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
