@@ -39,9 +39,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td style="vertical-align: middle;">R3(ours)</td>
-    <td style="vertical-align: middle;">R1(SARL)</td>
-    <td style="vertical-align: middle;">R2(SARL)</td>
+    <td>R3(ours)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
@@ -49,9 +49,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td class="center-vertical">R3(ours)</td>
-    <td class="center-vertical">R1(SARL)</td>
-    <td class="center-vertical">R2(SARL)</td>
+    <td>R3(ours)</td>
+    <td>R1(SARL)</td>
+    <td>R2(SARL)</td>
   </tr>
   <tr>
     <td></td>
@@ -60,7 +60,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td>R3(ours) { text-align: center; }</td>
+    <td>R3(ours)</td>
     <td></td>
   </tr>
 </table>
