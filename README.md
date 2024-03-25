@@ -154,18 +154,6 @@ python test.py --policy sarl --model_dir data/output --phase test --visualize --
   </tr>
 </table>
 
-## Blockpath Environment
-<table>
-  <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-blockpath/videos/blockpath1.gif" alt="Alt Text 1" width="300" style="margin-right: 10px;" /></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-blockpath/videos/blockpath2.gif" alt="Alt Text 1" width="300" style="margin-right: 10px;" /></td>
-  </tr>
-  <tr>
-    <td>Dynamic obstacles</td>
-    <td>Mixed obstacles</td>
-  </tr>
-</table>
-
 ## Reward Function of different outputs
 - **output_UR**:
 
