@@ -41,8 +41,8 @@ $$
     <td><img src="" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R1(CADRL) ## Reach the goal (14.75s)</td>
-    <td>R2(CADRL)</td>
+    <td>R1(CADRL) Reach the goal (14.75s)</td>
+    <td>R2(CADRL) Reach the goal (15.25s)</td>
     <td>R1(LSTM)</td>
   </tr>
   <tr>
@@ -52,8 +52,8 @@ $$
   </tr>
   <tr>
     <td>R2(LSTM)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td>R1(SARL) Reach the goal (13.75s)</td>
+    <td>R2(SARL) Reach the goal (13.75s)</td>
   </tr>
   <tr>
     <td></td>
@@ -62,7 +62,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td>R3(OURS)</td>
+    <td>R3(OURS) Reach the goal (13.75s)</td>
     <td></td>
   </tr>
 </table>
@@ -75,8 +75,8 @@ $$
     <td><img src="" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R1(CADRL)</td>
-    <td>R2(CADRL)</td>
+    <td>R1(CADRL) Reach the goal (16.25s)</td>
+    <td>R2(CADRL) Reach the goal (14.50s)</td>
     <td>R1(LSTM)</td>
   </tr>
   <tr>
@@ -85,9 +85,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R2(LSTM)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td>R2(LSTM) Collision </td>
+    <td>R1(SARL) Time out</td>
+    <td>R2(SARL) Time ou</td>
   </tr>
   <tr>
     <td></td>
@@ -96,7 +96,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td>R3(OURS)</td>
+    <td>R3(OURS) Reach the goal (14.50s)</td>
     <td></td>
   </tr>
 </table>
