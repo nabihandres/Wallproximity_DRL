@@ -60,7 +60,6 @@ $$
 </table>
 
 ### Dynamic Obstacles
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 18
 <table>
   <tr>
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/dynamic.gif" alt="Alt Text 3" width="300"/></td>
@@ -75,7 +74,6 @@ python test.py --policy sarl --model_dir data/output --phase test --visualize --
 </table>
 
 ### Mixed Obstacles
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 3
 <table>
   <tr>
     <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-curvepath/videos/mixed.gif" alt="Alt Text 3" width="300"/></td>
