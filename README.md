@@ -87,7 +87,7 @@ $$
   <tr>
     <td>R2(LSTM) Collision </td>
     <td>R1(SARL) Time out</td>
-    <td>R2(SARL) Time ou</td>
+    <td>R2(SARL) Time out</td>
   </tr>
   <tr>
     <td></td>
@@ -109,9 +109,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R1(CADRL)</td>
-    <td>R2(CADRL)</td>
-    <td>R1(LSTM)</td>
+    <td>R1(CADRL) Reach the goal (19.50s)</td>
+    <td>R2(CADRL) Collision</td>
+    <td>R1(LSTM) </td>
   </tr>
   <tr>
      <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
@@ -119,9 +119,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R2(LSTM)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td>R2(LSTM) Collision</td>
+    <td>R1(SARL) Collision with wall</td>
+    <td>R2(SARL) Collision with wall</td>
   </tr>
   <tr>
     <td></td>
@@ -130,7 +130,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td>R3(OURS)</td>
+    <td>R3(OURS) Reach the goal (16.00s)</td>
     <td></td>
   </tr>
 </table>
@@ -143,8 +143,8 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R1(CADRL)</td>
-    <td>R2(CADRL)</td>
+    <td>R1(CADRL) Reach the goal (19.25s)</td>
+    <td>R2(CADRL) Collision</td>
     <td>R1(LSTM)</td>
   </tr>
   <tr>
@@ -153,9 +153,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R2(LSTM)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td>R2(LSTM) Collision </td>
+    <td>R1(SARL) Collision</td>
+    <td>R2(SARL) Collision with wall</td>
   </tr>
   <tr>
     <td></td>
@@ -164,7 +164,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td>R3(OURS)</td>
+    <td>R3(OURS) Reach the goal (20.00s)</td>
     <td></td>
   </tr>
 </table>
