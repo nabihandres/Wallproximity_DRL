@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  td {
-    text-align: center;
-    vertical-align: middle;
-  }
-</style>
-</head>
-<body>
+
 # RAL 
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
@@ -44,6 +34,19 @@ $$
 ## Curvepath Environment
 ### No Obstacles
 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .center-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+</style>
+</head>
+<body>
 
 <table>
   <tr>
@@ -52,9 +55,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R3(ours)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td class="center-text">R3(ours)</td>
+    <td class="center-text">R1(SARL)</td>
+    <td class="center-text">R2(SARL)</td>
   </tr>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
@@ -62,22 +65,24 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R3(ours)</td>
-    <td>R1(SARL)</td>
-    <td>R2(SARL)</td>
+    <td class="center-text">R3(ours)</td>
+    <td class="center-text">R1(SARL)</td>
+    <td class="center-text">R2(SARL)</td>
   </tr>
   <tr>
     <td></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
-  <tr>
+  <tr> 
     <td></td>
-    <td>R3(ours)</td>
+    <td class="center-text">R3(ours)</td>
     <td></td>
   </tr>
 </table>
 
+</body>
+</html>
 
 
 ### Static Obstacles
@@ -423,5 +428,4 @@ To simulate circular obstacles, each circle is approximated by a series of conne
           self.sim.addObstacle([(x1, y1), (x2, y2)])
   self.sim.processObstacles()
 
-</body>
-</html>
+
