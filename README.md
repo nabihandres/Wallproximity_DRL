@@ -153,7 +153,7 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R2(LSTM) Collision </td>
+    <td>R2(LSTM) Reach the goal (14.50s) </td>
     <td>R1(SARL) Time out</td>
     <td>R2(SARL) Time out</td>
   </tr>
