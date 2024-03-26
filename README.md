@@ -76,7 +76,7 @@ $$
   <tr>
     <td>R1(CADRL) Reach the goal (19.25s)</td>
     <td>R2(CADRL) Collision</td>
-    <td>R1(LSTM)</td>
+    <td>R1(LSTM) Time out</td>
   </tr>
   <tr>
      <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
