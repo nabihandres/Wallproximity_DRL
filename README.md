@@ -71,7 +71,7 @@ $$
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Reach the goal (19.25s)</td>
