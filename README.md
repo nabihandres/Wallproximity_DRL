@@ -42,7 +42,7 @@ $$
   <tr>
     <td>R1(CADRL) Reach the goal (19.50s)</td>
     <td>R2(CADRL) Collision</td>
-    <td>R1(LSTM) </td>
+    <td>R1(LSTM) Collision with wall</td>
   </tr>
   <tr>
      <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
@@ -52,7 +52,7 @@ $$
   <tr>
     <td>R2(LSTM) Collision</td>
     <td>R1(SARL) Collision with wall</td>
-    <td>R2(SARL) Collision with wall</td>
+    <td>R2(SARL) Collision </td>
   </tr>
   <tr>
     <td></td>
