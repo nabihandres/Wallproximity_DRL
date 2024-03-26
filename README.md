@@ -111,7 +111,7 @@ $$
   <tr>
     <td>R1(CADRL) Reach the goal (14.75s)</td>
     <td>R2(CADRL) Reach the goal (15.25s)</td>
-    <td>R1(LSTM)</td>
+    <td>R1(LSTM) Reach the goal (14.25s)</td>
   </tr>
   <tr>
      <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
@@ -119,7 +119,7 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R2(LSTM)</td>
+    <td>R2(LSTM) Reach the goal (14.25s)</td>
     <td>R1(SARL) Reach the goal (13.75s)</td>
     <td>R2(SARL) Reach the goal (13.75s)</td>
   </tr>
