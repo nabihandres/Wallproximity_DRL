@@ -106,7 +106,7 @@ $$
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Reach the goal (14.75s)</td>
@@ -114,7 +114,7 @@ $$
     <td>R1(LSTM)</td>
   </tr>
   <tr>
-     <td><img src="" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
@@ -140,7 +140,7 @@ $$
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Reach the goal (16.25s)</td>
@@ -148,7 +148,7 @@ $$
     <td>R1(LSTM)</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
