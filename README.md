@@ -173,8 +173,8 @@ $$
 ### Dynamic Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_CADRL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_CADRL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
@@ -183,7 +183,7 @@ $$
     <td>R1(LSTM) Collision</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
@@ -207,8 +207,8 @@ $$
 ### Mixed Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_CADRL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_CADRL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@ $$
     <td>R1(LSTM) Collision with wall</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
@@ -242,8 +242,8 @@ $$
 
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_CADRL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R2_CADRL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
@@ -276,8 +276,8 @@ $$
 ### Static Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_CADRL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_CADRL.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
