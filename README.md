@@ -281,9 +281,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R1(CADRL) Reach the goal (16.25s)</td>
-    <td>R2(CADRL) Reach the goal (14.50s)</td>
-    <td>R1(LSTM) Reach the goal (14.50s)</td>
+    <td>R1(CADRL) Reach the goal (12s)</td>
+    <td>R2(CADRL) Reach the goal (10.50s)</td>
+    <td>R1(LSTM) Time out </td>
   </tr>
   <tr>
      <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
@@ -291,9 +291,9 @@ $$
     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>R2(LSTM) Reach the goal (14.50s) </td>
+    <td>R2(LSTM) collision </td>
     <td>R1(SARL) Time out</td>
-    <td>R2(SARL) Time out</td>
+    <td>R2(SARL) Reach the goal (14.00s)</td>
   </tr>
   <tr>
     <td></td>
@@ -302,7 +302,7 @@ $$
   </tr>
   <tr> 
     <td></td>
-    <td>R3(OURS) Reach the goal (14.50s)</td>
+    <td>R3(OURS) Reach the goal (10.50s)</td>
     <td></td>
   </tr>
 </table>
