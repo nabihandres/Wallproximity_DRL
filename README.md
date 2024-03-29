@@ -173,9 +173,9 @@ $$
 ### Dynamic Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Collision</td>
@@ -183,9 +183,9 @@ $$
     <td>R1(LSTM) Collision</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R2(LSTM) Collision</td>
@@ -194,7 +194,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
@@ -207,9 +207,9 @@ $$
 ### Mixed Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Collision</td>
@@ -217,9 +217,9 @@ $$
     <td>R1(LSTM) Collision with wall</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R2(LSTM) Collision </td>
@@ -228,7 +228,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
@@ -242,9 +242,9 @@ $$
 
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Reach the goal (10s)</td>
@@ -252,9 +252,9 @@ $$
     <td>R1(LSTM) Reach the goal (14.75s)</td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R2(LSTM) Reach the goal (10s)</td>
@@ -263,7 +263,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
@@ -276,9 +276,9 @@ $$
 ### Static Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R1(CADRL) Reach the goal (12s)</td>
@@ -286,9 +286,9 @@ $$
     <td>R1(LSTM) Time out </td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R2(LSTM) collision </td>
@@ -297,7 +297,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
