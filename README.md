@@ -185,7 +185,7 @@ $$
   <tr>
      <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R2_SARL(R2).gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
     <td>R2(LSTM) Collision</td>
