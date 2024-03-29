@@ -170,92 +170,140 @@ $$
 </table>
 
 ## Crosspath Environment
-### No Obstacles
+### Dynamic Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/no.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/no UR.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/no ICCAS.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_crosspath</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
+    <td>R1(CADRL) Collision</td>
+    <td>R2(CADRL) Collision with wall</td>
+    <td>R1(LSTM) Collision</td>
+  </tr>
+  <tr>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R2(LSTM) Collision</td>
+    <td>R1(SARL) Collision</td>
+    <td>R2(SARL) Reach the goal (17.50s) </td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td></td>
+    <td>R3(OURS) Reach the goal (14.00s)</td>
+    <td></td>
   </tr>
 </table>
 
-### Circle Crossing
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 12
+### Mixed Obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/circle_crossing.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/circle_crossing UR.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/circle_crossing ICCAS.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_crosspath</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
+    <td>R1(CADRL) Collision</td>
+    <td>R2(CADRL) Collision</td>
+    <td>R1(LSTM) Collision with wall</td>
+  </tr>
+  <tr>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_LSTM.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R2(LSTM) Collision </td>
+    <td>R1(SARL) Collision</td>
+    <td>R2(SARL)  Reach the goal (20.75s)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td></td>
+    <td>R3(OURS) Reach the goal (19.5s)</td>
+    <td></td>
+  </tr>
+</table>
+
+### No Obstacles
+
+<table>
+  <tr>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R1(CADRL) Reach the goal (14.75s)</td>
+    <td>R2(CADRL) Reach the goal (15.25s)</td>
+    <td>R1(LSTM) Reach the goal (14.25s)</td>
+  </tr>
+  <tr>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R2(LSTM) Reach the goal (14.25s)</td>
+    <td>R1(SARL) Reach the goal (13.75s)</td>
+    <td>R2(SARL) Reach the goal (13.75s)</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td></td>
+    <td>R3(OURS) Reach the goal (13.75s)</td>
+    <td></td>
   </tr>
 </table>
 
 ### Static Obstacles
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 7
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/static.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/static UR.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/static ICCAS.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_CADRL.gif.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_crosspath</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
-  </tr>
-</table>
-
-### Square Crossing
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 3
-<table>
-  <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/square_crossing.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/square_crossing UR.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/square_crossing ICCAS.gif" alt="Alt Text 1" width="300"/></td>
+    <td>R1(CADRL) Reach the goal (16.25s)</td>
+    <td>R2(CADRL) Reach the goal (14.50s)</td>
+    <td>R1(LSTM) Reach the goal (14.50s)</td>
   </tr>
   <tr>
-    <td>output_alisher_crosspath</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
-  </tr>
-</table>
-
-### Circle Static
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 10
-<table>
-  <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/circle_static.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/circle_static UR.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/circle_static ICCAS.gif" alt="Alt Text 1" width="300"/></td>
+     <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_LSTM.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1_SARL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R2_SARL.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
-    <td>output_alisher_crosspath</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
-  </tr>
-</table>
-
-### Square Static
-python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 11
-<table>
-  <tr>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/square_static.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/square_static UR.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/sarl_UR2024/blob/main/CrowdNav-crosspath/videos/square_static ICCAS.gif" alt="Alt Text 1" width="300"/></td>
+    <td>R2(LSTM) Reach the goal (14.50s) </td>
+    <td>R1(SARL) Time out</td>
+    <td>R2(SARL) Time out</td>
   </tr>
   <tr>
-    <td>output_alisher_crosspath</td>
-    <td>output_UR</td>
-    <td>output_alisher_ICCAS2023</td>
+    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td></td>
+    <td>R3(OURS) Reach the goal (14.50s)</td>
+    <td></td>
   </tr>
 </table>
 
