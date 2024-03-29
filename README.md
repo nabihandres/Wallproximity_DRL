@@ -263,7 +263,7 @@ $$
   </tr>
   <tr>
     <td></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
