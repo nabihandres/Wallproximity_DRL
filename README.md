@@ -277,7 +277,7 @@ $$
 <table>
   <tr>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_CADRL.gif" alt="Alt Text 1" width="300"/></td>
-    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_CADRL.gif" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R2_cadrl.gif" alt="Alt Text 1" width="300"/></td>
     <td><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_LSTM.gif" alt="Alt Text 1" width="300"/></td>
   </tr>
   <tr>
