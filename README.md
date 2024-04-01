@@ -1,5 +1,5 @@
 
-# Wallproximity_DRL 
+# Wall proximity 
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
 ### Overview
