@@ -21,7 +21,7 @@ $$
 - **R2**:
 
 $$
-R(J, a) = R_g + R_c + R_{for} + R_d + 2R_s
+R(J, a) = R_g + R_c + R_d + R_{hg} + R_s
 $$
 
 - **R3(Ours)**:
