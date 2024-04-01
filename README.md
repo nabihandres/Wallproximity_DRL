@@ -11,8 +11,8 @@ This README outlines the test environments: blockpath and curvepath. These modif
 $$
 R(J_t, a_t) = 
 \begin{cases} 
-R_g & \text{if Reach the goal} \\
-R_c & \text{elif Collision} \\
+R_g=10 & \text{if Reach the goal} \\
+R_c=-0.5 & \text{elif Collision} \\
 R_d = 0.5(d_{i} - d_{\text{und}}) & \text{elif Danger} \\
 R_{hg}= 0.01(d_{g}(t - 1) - d_{g}(t)) & \text{otherwise}
 \end{cases}
