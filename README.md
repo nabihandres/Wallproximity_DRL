@@ -27,7 +27,7 @@ $$
 - **R3(Ours)**:
 
 $$
-R(J, a) = R_g + R_c + R_{for} + R_{km} + R_d + R_s + R_{wall}
+R(J, a) = R_g + R_c + R_d + R_{hg} + R_s + R_{pf} + R_{wall}
 $$
 
 ## Curvepath Environment
