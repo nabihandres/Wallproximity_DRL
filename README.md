@@ -32,7 +32,7 @@ $$
 
 ## Example of How Wall Proximity Subfunctions Work
 (wall_proximity.gif)
-
+![robot_movement](wall_proximity.gif)
 ## Curvepath Environment
 ### Dynamic Obstacles
 <table>
