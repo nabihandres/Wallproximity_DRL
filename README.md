@@ -31,7 +31,7 @@ R(J, a) = R_g + R_c + R_d + R_{hg} + R_s + R_{pf} + R_{wall}
 $$
 
 ## Example of How Wall Proximity Subfunctions Work
-![robot_movement](robot_movement.gif)
+(wall_proximity.gif)
 
 ## Curvepath Environment
 ### Dynamic Obstacles
