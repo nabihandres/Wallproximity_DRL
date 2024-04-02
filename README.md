@@ -30,6 +30,9 @@ $$
 R(J, a) = R_g + R_c + R_d + R_{hg} + R_s + R_{pf} + R_{wall}
 $$
 
+## Example of How Wall Proximity Subfunctions Work
+![robot_movement](robot_movement.gif)
+
 ## Curvepath Environment
 ### Dynamic Obstacles
 <table>
@@ -307,12 +310,7 @@ $$
 </table>
 
 
-## Reward Function Changes
-- **Forward Subfunction Modification**: The forward subfunction of the Reward function has been updated to more effectively evaluate the robot's performance based on the distance traveled and the proximity to the goal. The revised function is as follows:
-  
-  ```python
-  R_for += 3*(1 / (1+np.exp(3*end_dg-5.5)))**0.1
-  
+
 ## Wall Proximity Subfunctions
 The Wall Proximity Subfunctions aim to ensure that the robot maintains a safe distance from walls. The robot is penalized for being too close or too far from a wall and rewarded for maintaining an optimal distance.
 Environment (crosspath and blockpath) has blocks and each block can be divided to walls or line segments.
@@ -428,93 +426,10 @@ The robot's behavior is influenced by the following reward/penalty mechanism:
   if max_distance > 20:	
       R_wall_max_dist = -0.5
 
-## Example of How Wall Proximity Subfunctions Work
-![robot_movement](robot_movement.gif)
-- Code for plotting is provided in plotting.py
+
+
   
-## Enhanced Logging Features
 
-### Detailed Reward/Penalty Logging
-- **Individual Subfunction Rewards/Penalties**: Each subfunction's contribution to the total reward or penalty is now logged separately. This includes the Wall Proximity Subfunctions and the updated Reward function.
-- **Total Reward**: The cumulative reward for each scenario is logged, providing an overview of the robot's overall performance.
 
-### Navigation Metrics
-- **Distance Traveled**: The total distance traveled by the robot in each scenario is logged, offering insight into its movement efficiency.
-- **Distance Left to Goal**: This metric logs the remaining distance to the goal at the end of each scenario, helping to evaluate how close the robot was to completing its objective.
-- **Number of Stops**: The Explorer now logs the number of times the robot stops during a scenario, which can be indicative of its decision-making process and efficiency.
-- **Last Position Coordinates**: The final coordinates of the robot at the end of each scenario are recorded. This data is crucial for understanding the robot's final location relative to its intended goal.
-
-### Detailed description
-- **Track rewards and penalties for each episode**: To track rewards and penalties for each subfunction in each episode, rewards_dict was introduced to track various components
-    ```python
-    rewards_dict = {
-    "Total Reward": 0,
-    "R_dan": 0,
-    "2*R_stop": 0,
-    "R_forward": 0,
-    "R_goal": 0,
-    "R_col": 0,
-    "R_km": 0,
-    "R_col_wall": 0,
-    "R_wall_min_dist": 0,
-    "R_stop_t": 0,
-    "R_for": 0
-    }
-  
-- During each episode (while not done), the rewards_dict is updated based on the returned reward_values from the step function:
-  ```python
-  rewards_dict = {key: round(rewards_dict[key] + reward_values[key], 3) for key in rewards_dict}
-  
-#### **Calculation of Metrics:**
-- Distance Traveled by Robot is calculated based on the action taken:
-  ```python
-  if isinstance(action, ActionXY):
-    length += 0.25 * np.linalg.norm([action.vx, action.vy])
-  else:
-    length += 0.25 * action.v
-- Detection of Robot Stops:
-  A boolean indicating whether the robot is stopped (is_stopped) is returned from the step function and used to count stops:
-  ```python
-  if is_stopped:
-    stops += 1
-- Robot Position is retrieved within the step function and utilized in the Explorer function to display the last coordinates:
-  ```python
-  position = self.robot.get_position()  # Retrieval of robot's position
-  # (returned and used in Explorer function for display)
-- Distance Remaining to Goal is calculated within the step function using Euclidean distance calculations:
-  ```python
-  # step function:
-  end_position = np.array(self.robot.compute_position(action, self.time_step))
-  start_dg = norm(self.robot.get_position() - np.array(self.robot.get_goal_position()))
-  end_dg = norm(end_position - np.array(self.robot.get_goal_position()))
-  left_path = end_dg - self.robot.radius
-  # (returned to Explorer function for further utilization)
-
-### Implementation
-The logging enhancements are integrated into the Explorer file. During training, these metrics are recorded for each scenario.
-
-## Modified ORCA Function
-
-### Circular Obstacle Approximation
-To simulate circular obstacles, each circle is approximated by a series of connected line segments. This method allows the existing ORCA algorithm to handle circular obstacles as if they were a series of straight-line obstacles. Here is the implementation detail:
-
-```python
-  circle_center = (-8, -8)
-  circle_radius1 = 10.0
-  circle_radius2 = 15.0
-
-  num_segments = 30
-  for circle_radius in [circle_radius1, circle_radius2]:
-      for i in range(num_segments):
-          angle = 2 * math.pi * i / num_segments
-          next_angle = 2 * math.pi * (i + 1) / num_segments
-
-          x1 = circle_center[0] + circle_radius * math.cos(angle)
-          y1 = circle_center[1] + circle_radius * math.sin(angle)
-          x2 = circle_center[0] + circle_radius * math.cos(next_angle)
-          y2 = circle_center[1] + circle_radius * math.sin(next_angle)
-
-          self.sim.addObstacle([(x1, y1), (x2, y2)])
-  self.sim.processObstacles()
 
 
