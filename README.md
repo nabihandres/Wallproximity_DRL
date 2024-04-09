@@ -315,9 +315,9 @@ $$
 
 ## Experimental results
 
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/b6355036-4b33-40c2-b926-22bc5e2f4680
 
-https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/b9114697-8fbf-4450-b094-69a588968357
-
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/60364009-8fb7-4235-ae28-d0dea7e77356
 
 
 
