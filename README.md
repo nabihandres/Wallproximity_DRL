@@ -315,7 +315,11 @@ $$
 
 ## Experimental results
 
-![image](https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)CADRL(R2))
+
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/b9114697-8fbf-4450-b094-69a588968357
+
+
+
 
 ### Dynamic environment (Path Contraing, 5 Humans, and 1 Robot as static obstacle)
 <table>
