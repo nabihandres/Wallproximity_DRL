@@ -333,8 +333,8 @@ $$
 ### Limited space without obstacles
 <table>
   <tr>
-    <td><img src="https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)CADRL(R2).mp4" alt="Alt Text 1" width="300"/></td>
-    <td><img src="hhttps://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)OURS(R3).mp4" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)CADRL(R2).mp4" alt="Alt Text 1" width="100"/></td>
+    <td><img src="hhttps://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)OURS(R3).mp4" alt="Alt Text 1" width="100"/></td>
   </tr>
   <tr>
     <td>R2(CADRL) Frozen </td>
