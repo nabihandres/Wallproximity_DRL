@@ -327,6 +327,18 @@ $$
   </tr>
 </table>
 
+### Limited space without obstacles
+<table>
+  <tr>
+    <td><img src="https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)CADRL(R2).mp4" alt="Alt Text 1" width="300"/></td>
+    <td><img src="hhttps://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)OURS(R3).mp4" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R2(CADRL) Frozen </td>
+    <td>R3(OURS) Reach the goal (19.50s)</td>
+  </tr>
+</table>
+
 
 ## Wall Proximity Subfunctions
 The Wall Proximity Subfunctions aim to ensure that the robot maintains a safe distance from walls. The robot is penalized for being too close or too far from a wall and rewarded for maintaining an optimal distance.
