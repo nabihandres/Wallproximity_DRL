@@ -316,7 +316,7 @@ $$
 ## Experimental results
 
 (a)CADRL(R2).mp4)
-![robot_movement2](Experiments/a)CADRL(R2).mp4)
+![image](https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)CADRL(R2))
 
 ### Dynamic environment (Path Contraing, 5 Humans, and 1 Robot as static obstacle)
 <table>
