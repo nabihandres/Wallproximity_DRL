@@ -3,9 +3,12 @@
 ## Modifications to Reward Function and Wall Proximity Subfunctions
 
 ### Overview
-This README outlines the test environments: blockpath and curvepath. These modifications are centered around the Reward function and the introduction of new subfunctions to better handle robot navigation with respect to wall proximity.
+This repository introduces neural network results designed for autonomous navigation, which include features
+data about the robot, humans, static obstacles, and path constraints.
+The README outlines the test environments: curvepath and crosspath.
+The Reward functions and the introduction of new subfunctions are introduced to better handle robot navigation concerning wall proximity.
 
-## Reward Function of different outputs
+## Reward Functions
 - **R1**:
 
 $$
