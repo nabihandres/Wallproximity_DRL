@@ -1,6 +1,5 @@
 
 # Wall proximity 
-## Modifications to Reward Function and Wall Proximity Subfunctions
 
 ### Overview
 This repository introduces neural network results designed for autonomous navigation, which include features
