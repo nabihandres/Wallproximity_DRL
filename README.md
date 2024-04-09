@@ -35,7 +35,9 @@ $$
 ## Example of How Wall Proximity R3(Ours) Subfunctions Work
 (wall_proximity.gif)
 ![robot_movement](wall_proximity.gif)
-## Curvepath Environment
+
+
+## Simulation results on Curvepath Environment
 ### Dynamic Obstacles
 <table>
   <tr>
@@ -173,7 +175,7 @@ $$
   </tr>
 </table>
 
-## Crosspath Environment
+## Simulation results on Crosspath Environment
 ### Dynamic Obstacles
 <table>
   <tr>
@@ -311,7 +313,7 @@ $$
   </tr>
 </table>
 
-
+## Experimental results
 
 ## Wall Proximity Subfunctions
 The Wall Proximity Subfunctions aim to ensure that the robot maintains a safe distance from walls. The robot is penalized for being too close or too far from a wall and rewarded for maintaining an optimal distance.
