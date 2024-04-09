@@ -315,6 +315,19 @@ $$
 
 ## Experimental results
 
+### Dynamic environment (Path Contraing, 5 Humans, and 1 Robot as static obstacle)
+<table>
+  <tr>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/Experiments/a)CADRL(R2).mp4" alt="Alt Text 1" width="300"/></td>
+    <td><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/a)OURS(R3).mp4" alt="Alt Text 1" width="300"/></td>
+  </tr>
+  <tr>
+    <td>R2(CADRL) Frozen </td>
+    <td>R3(OURS) Reach the goal (19.50s)</td>
+  </tr>
+</table>
+
+
 ## Wall Proximity Subfunctions
 The Wall Proximity Subfunctions aim to ensure that the robot maintains a safe distance from walls. The robot is penalized for being too close or too far from a wall and rewarded for maintaining an optimal distance.
 Environment (crosspath and blockpath) has blocks and each block can be divided to walls or line segments.
