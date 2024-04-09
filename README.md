@@ -315,36 +315,17 @@ $$
 
 ## Experimental results
 
+### Dynamic environment (Path Contraing, 5 Humans, and 1 Robot as static obstacle)
+
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/cfe2cfc4-a539-4fa4-8e80-377e495d0063
+
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/9f1db444-588e-4e51-b90f-f94854dfd989
+
+### Limited space without obstacles
+
 https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/b6355036-4b33-40c2-b926-22bc5e2f4680
 
 https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/60364009-8fb7-4235-ae28-d0dea7e77356
-
-
-
-### Dynamic environment (Path Contraing, 5 Humans, and 1 Robot as static obstacle)
-<table>
-  <tr>
-    <td><img src="https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/a)CADRL(R2).mp4" alt="Alt Text 1" width="300"/></td>
-    <td><img src="hhttps://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/a)OURS(R3).mp4" alt="Alt Text 1" width="300"/></td>
-  </tr>
-  <tr>
-    <td>R2(CADRL) Frozen </td>
-    <td>R3(OURS) Reach the goal (19.50s)</td>
-  </tr>
-</table>
-
-### Limited space without obstacles
-<table>
-  <tr>
-    <td><img src="https://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)CADRL(R2).mp4" alt="Alt Text 1" width="100"/></td>
-    <td><img src="hhttps://github.com/nabihandres/Wallproximity_DRL/blob/main/Experiments/b)OURS(R3).mp4" alt="Alt Text 1" width="100"/></td>
-  </tr>
-  <tr>
-    <td>R2(CADRL) Frozen </td>
-    <td>R3(OURS) Reach the goal (19.50s)</td>
-  </tr>
-</table>
-
 
 ## Wall Proximity Subfunctions
 The Wall Proximity Subfunctions aim to ensure that the robot maintains a safe distance from walls. The robot is penalized for being too close or too far from a wall and rewarded for maintaining an optimal distance.
