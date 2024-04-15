@@ -315,17 +315,21 @@ $$
 
 ## Experimental results
 
-### Dynamic environment (Path Contraing, 5 Humans, and 1 Robot as static obstacle)
-
-https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/cfe2cfc4-a539-4fa4-8e80-377e495d0063
-
-https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/9f1db444-588e-4e51-b90f-f94854dfd989
-
-### Limited space without obstacles
+### Scenario 1: Limited space without obstacles (Distance to goal: 7 meters)
 
 https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/b6355036-4b33-40c2-b926-22bc5e2f4680
 
 https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/60364009-8fb7-4235-ae28-d0dea7e77356
+### Scenario 2: Dynamic environment (Path constraints, 5 Humans, and 1 Robot as static obstacle) (Distance to goal: 12 meters)
+
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/cfe2cfc4-a539-4fa4-8e80-377e495d0063
+
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/9f1db444-588e-4e51-b90f-f94854dfd989
+### Scenario 3: Dynamic environment ( 7 Humans) (Distance to goal: 21 meters)
+
+https://github.com/nabihandres/Wallproximity_DRL/assets/44639920/f16fa629-1633-4021-ac75-5027f9a0f30a
+
+
 
 ## Wall Proximity Subfunctions
 The Wall Proximity Subfunctions aim to ensure that the robot maintains a safe distance from walls. The robot is penalized for being too close or too far from a wall and rewarded for maintaining an optimal distance.
