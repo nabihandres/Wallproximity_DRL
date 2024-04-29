@@ -446,11 +446,3 @@ The robot's behavior is influenced by the following reward/penalty mechanism:
       R_wall_max_dist = -0.5
   else:
       R_wall_max_dist = 0
-
-
-
-  
-
-
-
-
