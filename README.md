@@ -2,10 +2,8 @@
 # Wall proximity 
 
 ### Overview
-This repository introduces neural network results designed for autonomous navigation, which include features
-data about the robot, humans, static obstacles, and path constraints.
-The README outlines the test environments: curvepath and crosspath.
-The Reward functions and the introduction of new subfunctions are introduced to better handle robot navigation concerning wall proximity.
+This repository introduces neural network results designed for autonomous navigation.  It includes feature data about the robot, humans, static obstacles, and path constraints. 
+The README provides an overview of the test environments: curvepath and crosspath. Additionally, the repository introduces reward functions and new subfunctions aimed at improving robot navigation, particularly in navigating close to walls.
 
 ## Reward Functions
 - **R1**:
