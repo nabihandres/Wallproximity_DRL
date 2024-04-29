@@ -438,11 +438,14 @@ The robot's behavior is influenced by the following reward/penalty mechanism:
   
 #### `R_wall_max_dist`
 - If the robot is too far from a wall (`> 20` m), it receives a penalty of `-0.5`.
+- Otherwise, it gets `0`.
   ```python
   farthest_point, max_distance = self.farthest_point_and_distance(self.robot.get_position(), self.blocks)
   R_wall_max_dist = 0
   if max_distance > 20:	
       R_wall_max_dist = -0.5
+  else:
+      R_wall_max_dist = 0
 
 
 
