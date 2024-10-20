@@ -199,11 +199,12 @@ $$
   <tr>
     <td></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>  
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Reach the goal (18.75s)</td>
     <td>R3(OURS) Reach the goal (14.00s)</td>
     <td></td>
   </tr>
