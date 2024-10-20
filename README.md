@@ -59,12 +59,12 @@ $$
     <td>R2(SARL) Collision </td>
   </tr>
   <tr>
-    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Reach the goal (16.00s)</td>
     <td>R3(OURS) Reach the goal (16.00s)</td>
     <td></td>
   </tr>
@@ -93,12 +93,12 @@ $$
     <td>R2(SARL) Collision with wall</td>
   </tr>
   <tr>
-    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Reach the goal (22.50s)</td>
     <td>R3(OURS) Reach the goal (20.00s)</td>
     <td></td>
   </tr>
@@ -128,12 +128,12 @@ $$
     <td>R2(SARL) Reach the goal (13.75s)</td>
   </tr>
   <tr>
-    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Reach the goal (13.75s)</td>
     <td>R3(OURS) Reach the goal (13.75s)</td>
     <td></td>
   </tr>
@@ -162,12 +162,12 @@ $$
     <td>R2(SARL) Time out</td>
   </tr>
   <tr>
-    <td></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R3(ST) Reach the goal (16.75s)</td>
     <td>R3(OURS) Reach the goal (14.50s)</td>
     <td></td>
   </tr>
