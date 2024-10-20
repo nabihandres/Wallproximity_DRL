@@ -197,10 +197,9 @@ $$
     <td>R2(SARL) Reach the goal (17.50s) </td>
   </tr>
   <tr>
-    <td></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
-    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/" alt="Alt Text 1" width="300"/></td>
+    <td></td>
     <td></td>
   </tr>
   <tr> 
@@ -233,13 +232,13 @@ $$
     <td>R2(SARL)  Reach the goal (20.75s)</td>
   </tr>
   <tr>
-    <td></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
+    <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Reach the goal (17.75s)</td>
     <td>R3(OURS) Reach the goal (19.5s)</td>
     <td></td>
   </tr>
@@ -269,13 +268,12 @@ $$
     <td>R2(SARL) Reach the goal (9.5s)</td>
   </tr>
   <tr>
-    <td></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Reach the goal (9.75s)</td>
     <td>R3(OURS) Reach the goal (9.75s)</td>
     <td></td>
   </tr>
@@ -304,13 +302,12 @@ $$
     <td>R2(SARL) Reach the goal (14.00s)</td>
   </tr>
   <tr>
-    <td></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
-    <td></td>
+    <td>R1(ST) Time out</td>
     <td>R3(OURS) Reach the goal (10.50s)</td>
     <td></td>
   </tr>
