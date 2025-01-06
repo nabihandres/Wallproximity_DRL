@@ -209,12 +209,15 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
+
     <td></td>
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (18.75s)</td>
     <td>R3(OURS) Reach the goal (14.00s)</td>
+    <td>R4(wz) Reach the goal (16.75s)</td>
     <td></td>
   </tr>
 </table>
@@ -244,12 +247,14 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/mixed_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (17.75s)</td>
     <td>R3(OURS) Reach the goal (19.5s)</td>
+    <td>R4(wz) Collision</td>
     <td></td>
   </tr>
 </table>
@@ -280,11 +285,13 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/no_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (9.75s)</td>
     <td>R3(OURS) Reach the goal (9.75s)</td>
+    <td>R4(wz) Reach the goal (9.75s)</td>
     <td></td>
   </tr>
 </table>
@@ -314,11 +321,13 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/static_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Time out</td>
     <td>R3(OURS) Reach the goal (10.50s)</td>
+    <td>R4(wz) Reach the goal (11.25s)</td>
     <td></td>
   </tr>
 </table>
