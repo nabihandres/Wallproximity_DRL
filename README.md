@@ -61,11 +61,13 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/dyn_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (16.00s)</td>
     <td>R3(OURS) Reach the goal (16.00s)</td>
+    <td>R4(wz) Reach the goal (19.75s)</td>
     <td></td>
   </tr>
 </table>
@@ -95,11 +97,13 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/mixed_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (22.50s)</td>
     <td>R3(OURS) Reach the goal (20.00s)</td>
+    <td>R4(wz) Reach the goal (16.00s)</td>
     <td></td>
   </tr>
 </table>
@@ -130,11 +134,14 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/no_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
+
     <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (13.75s)</td>
     <td>R3(OURS) Reach the goal (13.75s)</td>
+    <td>R4(wz) Reach the goal (14.00s)</td>
     <td></td>
   </tr>
 </table>
@@ -164,11 +171,14 @@ $$
   <tr>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R1(ST).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R3(ours).gif" alt="Alt Text 1" width="300"/></td>
+    <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/curvepath/static_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
+
     <td></td>
   </tr>
   <tr> 
     <td>R3(ST) Reach the goal (16.75s)</td>
     <td>R3(OURS) Reach the goal (14.50s)</td>
+    <td>R4(wz) Reach the goal (15.75s)</td>
     <td></td>
   </tr>
 </table>
