@@ -210,9 +210,6 @@ $$
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R1_ST.gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R3_(ours).gif" alt="Alt Text 1" width="300"/></td>
     <td class="center-text"><img src="https://github.com/nabihandres/RAL/blob/main/crosspath/dyn_R4_wz.gif" alt="Alt Text 1" width="300"/></td>
-
-    <td></td>
-    <td></td>
   </tr>
   <tr> 
     <td>R1(ST) Reach the goal (18.75s)</td>
