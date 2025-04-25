@@ -464,3 +464,18 @@ The robot's behavior is influenced by the following reward/penalty mechanism:
       R_wall_max_dist = -0.5
   else:
       R_wall_max_dist = 0
+
+## Citation
+If you find our work useful in your research, please consider citing our paper:
+```
+@article{pico2025human,
+  title={Human and environmental feature-driven neural network for path-constrained robot navigation using deep reinforcement learning},
+  author={Pico, Nabih and Montero, Estrella and Amirbek, Alisher and Auh, Eugene and Jeon, Jeongmin and Alvarez-Alvarado, Manuel S and Jamil, Babar and Algabri, Redhwan and Moon, Hyungpil},
+  journal={Engineering Science and Technology, an International Journal},
+  volume={64},
+  pages={101993},
+  year={2025},
+  publisher={Elsevier}
+  doi={10.1016/j.jestch.2025.101993}
+}
+```
